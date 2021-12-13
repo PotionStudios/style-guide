@@ -1,4 +1,4 @@
-# vicuna.io Style Guide
+# PotionStudios.de Style Guide
 
 ## Formatting
 
